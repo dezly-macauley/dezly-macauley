@@ -1,5 +1,5 @@
 # Dezly Macauley
 _______________________________________________________________________________
 
-https://dezly-macauley.github.io/dezly-macauley/
+https://dezly-macauley.github.io/dezly-macauley
 _______________________________________________________________________________
