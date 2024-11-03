@@ -1,5 +1,5 @@
 # Dezly Macauley
 _______________________________________________________________________________
 
-https://dezly-macauley.github.io/dezly-macauley
+[Click here to view my resume](https://github.com/dezly-macauley/resumes/raw/main/dezly_macauley_resume.pdf)
 _______________________________________________________________________________
